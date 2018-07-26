@@ -26,7 +26,7 @@ namespace FPS
 
         }
 
-        int PassIndex;//send data for print
+        int PassIndex=1;//send data for print
 
       
          
